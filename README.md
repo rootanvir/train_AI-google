@@ -1,0 +1,2 @@
+# Train AI with google
+## click (here)[https://teachablemachine.withgoogle.com/train/]
